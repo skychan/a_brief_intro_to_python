@@ -317,7 +317,7 @@ a = sum(i for i in range(1, 101))
 8. `index`
 9. `+` (多个列表进行合并)
 10. `*` (列表元素重复)
-![list*](assets/list*.png)
+![list*](assets/list_.png)
 
 注意，上面有一个坑，如果我们把`b`中的某个子列表进行修改，会怎样？
 ![listmodify](assets/listmodify.png)
